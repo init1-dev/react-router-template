@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# environment
+.env
+
+#cypress screenshots
+cypress/screenshots
+cypress/downloads

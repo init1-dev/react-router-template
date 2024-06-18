@@ -17,7 +17,7 @@ function App() {
       <ThemeProvider theme={theme === 'light' ? lightTheme : darkTheme}>
         <Wrapper>
           <GlobalStyles />
-          <h1>Welcome to react-basic-template</h1>
+          <h1>Welcome to react-router-template</h1>
         </Wrapper>
       </ThemeProvider>
     </ThemeContext.Provider>
@@ -29,4 +29,4 @@ const Wrapper = styled.div`
   color: ${({ theme }) => theme.text};
 `;
 
-export default App
+export default App;
