@@ -27,7 +27,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/init1-dev/react-basic-template.git
+$ git clone https://github.com/init1-dev/react-router-template.git
 # install dependencies
 $ npm install
 # run project
